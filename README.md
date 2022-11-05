@@ -49,3 +49,17 @@ heroku config:set DATABASE_URL="postgresql://yourusername:yourpassword@localhost
 ### .env Files
 
 You can also create a `.env` file in the root of your project and add your Environment variables there. See `.env.sample` as an example. The `config.py` file is already setup to automatically load the `.env` file.
+
+## Git Location
+[Current repo](https://github.com/uwi-info3180/flask-db-demo)
+[Simple App](https://github.com/wftutorials/flask-beginner-tutorial)
+[Quickstart with Auth](https://github.com/stribny/flask-api-quickstart)
+[Good Tut in red ritmschool](https://www.rithmschool.com/courses/flask-fundamentals/using-jsonify)
+[Crud with SQLCHEMY](https://www.educative.io/answers/how-to-connect-flask-to-a-database-with-flask-sqlalchemy)
+[Flask Commands](https://nickjanetakis.com/blog/flask-db-helps-you-migrate-seed-and-reset-your-sql-database)
+[Blueprints](https://testdriven.io/blog/flask-apifairy/)
+[Complex db Relations migrate](https://github.com/RobertBoes/flask-migrate-example/blob/master/app.py)
+[Real world example](https://github.com/gothinkster/flask-realworld-example-app)
+[Heroku deployment](https://medium.com/thedevproject/use-flask-cli-to-create-commands-for-your-postgresql-on-heroku-in-6-simple-steps-e8166c024c8d)
+[Other oninits](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xv-a-better-application-structure)
+[Mega Tut Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xv-a-better-application-structure)
